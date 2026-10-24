@@ -1,0 +1,5 @@
+address,category,label,source
+0xbad0000000000000000000000000000000000001,malicious,Phishing drainer,synthetic
+0xbad0000000000000000000000000000000000002,malicious,Fake airdrop scam,synthetic
+0xaaa0000000000000000000000000000000000001,mixer,Mixer contract,synthetic
+0xaaa0000000000000000000000000000000000002,sanctioned,Sanctioned entity,synthetic

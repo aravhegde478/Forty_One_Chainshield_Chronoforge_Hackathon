@@ -1,0 +1,9 @@
+address,label,source
+0x09923e35f19687a524bbca7d42b92b6748534f25, evm_labels, manual
+0x54ba52cbd043b0b2e11a6823a910360e31bb2544, Fake_Phishing2168497, manual
+0x000000000532b45f47779fce440748893b257865, Fake_Phishing3901, Forta
+0x58538e6a46e07434d7e7375bc268d3cb839c0133, phishing, public_dataset
+0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34, phishing, public_dataset
+0xf7b6b32492c2e13799d921e84202450131bd238b, wallet_drainer, public_dataset
+0x5b93d80da1a359340d1f339fb574bdc56763f995, phishing, public_dataset
+
